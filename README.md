@@ -1,5 +1,4 @@
 ### oh, hello 👋
----
 
 Fancy seeing you here. My name's **Andrew** and I lead the web and mobile engineering teams  **[@helium](https://www.github.com/helium)**.
 
