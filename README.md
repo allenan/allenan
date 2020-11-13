@@ -13,6 +13,7 @@ Fancy seeing you here. My name's **Andrew** and I lead the web and mobile engine
 
 Looking to get involved with Helium? Here are some projects we're actively seeking contributors on:
 
+- 📱 https://github.com/helium/hotspot-app 👈 🆕
 - 👨‍🚀 https://github.com/helium/explorer
 - 🛠 https://github.com/helium/helium-js
 
