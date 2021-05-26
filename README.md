@@ -5,9 +5,7 @@ Fancy seeing you here. My name's **Andrew** and I lead the web and mobile engine
 
 - :office: VP of Engineering [@helium](https://www.helium.com)
 - 👨‍💻 Building things with: **JavaScript**, **TypeScript**, **React**, **React Native**, **Elixir** + **Phoenix**
-- 📥 Slide into my DMs: [@allenan_](https://twitter.com/allenan_)
-- 👾 Find me on discord: `bones#0001`
-- ♣️ Chat with me on clubhouse: `@andrew-allen`
+- 🐦 Follow me on Twitter: [@allenan_](https://twitter.com/allenan_)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like baking bread 🥖  with my cat 🐱 
 
